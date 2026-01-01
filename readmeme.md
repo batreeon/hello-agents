@@ -35,3 +35,17 @@
     ```bash
     uv add numpy --index-url https://pypi.tuna.tsinghua.edu.cn/simple
     ```
+
+3. git clone一个项目后，如何重建环境
+    uv sync
+
+4. code runner 如何使用项目所在的虚拟环境执行python代码
+    新建 .vscode/settings.json 文件：
+    ```json
+    {
+        "code-runner.executorMap": {
+            "python": "uv run"
+        },
+        "code-runner.runInTerminal": true
+    }
+    ```
