@@ -32,7 +32,7 @@
 ### 在线阅读
 **[🌐 点击这里开始在线阅读](https://datawhalechina.github.io/hello-agents/)** - 无需下载，随时随地学习
 
-**[📖 Cookbook(测试版)](https://book.heterocat.com.cn/)**
+**[📖 Cookbook](https://book.heterocat.com.cn/)**
 
 ### 本地阅读
 如果您希望在本地阅读或贡献内容，请参考下方的学习指南。
@@ -161,13 +161,6 @@
   </a>
 </div>
 
-## 读者交流群
-
-<div align='center'>
-    <img src="./读者群二维码.png" alt="读者群二维码" width="30%">
-    <p>扫描二维码加入读者交流群，与更多学习者交流讨论</p>
-</div>
-
 ## Star History
 
 <div align='center'>
@@ -176,6 +169,13 @@
 
 <div align="center">
   <p>⭐ 如果这个项目对你有帮助，请给我们一个 Star！</p>
+</div>
+
+## 读者交流群
+
+<div align='center'>
+    <img src="./读者群二维码.png" alt="读者群二维码" width="30%">
+    <p>扫描二维码加入读者交流群，与更多学习者交流讨论</p>
 </div>
 
 ## 关于 Datawhale
