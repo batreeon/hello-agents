@@ -25,9 +25,7 @@
 
 ## 🌐 Online Reading
 
-**[🌐 Click here to start online reading](https://datawhalechina.github.io/hello-agents/)**
-
-**[📖 Cookbook](https://book.heterocat.com.cn/)**
+**[🌐 International Access](https://datawhalechina.github.io/hello-agents/)** | **[🚀 Domestic Acceleration](https://hello-agents.datawhale.cc)**
 
 ### ✨ What Will You Gain?
 
@@ -154,7 +152,7 @@ We are an open-source community and welcome any form of contribution!
 ## Star History
 
 <div align='center'>
-    <img src="./images/star-history-2026210.png" alt="Datawhale" width="90%">
+    <img src="./images/star-history-2026324.png" alt="Datawhale" width="90%">
 </div>
 
 <div align="center">
