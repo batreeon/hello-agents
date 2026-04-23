@@ -87,7 +87,7 @@
 
 &emsp;&emsp; *<strong>This Hello-Agents PDF tutorial is completely open source and free. To prevent various marketing accounts from adding watermarks and selling it to multi-agent system beginners, we have pre-added Datawhale open-source logo watermarks that do not affect reading in the PDF file. Please understand~</strong>*
 
-> *Hello-Agents PDF: https://github.com/datawhalechina/hello-agents/releases/tag/V1.0.0*  
+> *Hello-Agents PDF: https://github.com/datawhalechina/hello-agents/releases/latest/*  
 > *Hello-Agents PDF domestic download address: https://www.datawhale.cn/learn/summary/239* 
 
 ## 💡 How to Learn
@@ -152,7 +152,7 @@ We are an open-source community and welcome any form of contribution!
 ## Star History
 
 <div align='center'>
-    <img src="./images/star-history-2026324.png" alt="Datawhale" width="90%">
+    <img src="./images/star-history-2026424.png" alt="Datawhale" width="90%">
 </div>
 
 <div align="center">
